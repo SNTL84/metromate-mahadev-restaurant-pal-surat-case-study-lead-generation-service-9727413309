@@ -99,11 +99,12 @@ Implemented structured inventory tracking for raw materials, frozen goods, and d
 
 
 
-## 🤖 WhatsApp Business Chat Agent — FAQ & Menu Knowledge Base
+<details>
+<summary><strong>Open the complete WhatsApp Chat Agent FAQ & Knowledge Base</strong></summary>
 
 A complete customer-first WhatsApp chat-agent blueprint has been added, including opening messages, quick replies, FAQs, customer qualification, staff handoff, and full menu item references with printed serial numbers. Party, buffet, and catering lead capture is the priority. The agent instructions avoid discussing prices proactively and route current pricing/package confirmation to restaurant staff.
 
-**[Open the complete WhatsApp Chat Agent FAQ & Knowledge Base](docs/whatsapp-agent/Mahadev_Restaurant_WhatsApp_Chat_Agent_FAQ.md)**
+**[Read the full WhatsApp Chat Agent FAQ & Knowledge Base](docs/whatsapp-agent/Mahadev_Restaurant_WhatsApp_Chat_Agent_FAQ.md)**
 
 Coverage includes:
 - Restaurant identity, contact details, address, social/contact reference checks, and service-claim safeguards.
@@ -113,6 +114,8 @@ Coverage includes:
 - Staff handoff template, ready-to-use customer conversation examples, pre-publishing checklist, and notes about duplicate menu labels that should be verified rather than silently changed.
 
 > **Setup note:** The knowledge base is committed to this repository; this does not itself install or activate an agent in Meta Business or WhatsApp. Configure and test the chosen WhatsApp Business/Meta agent separately. Prices are intentionally not included in the customer-facing conversation blueprint; staff confirms current pricing after understanding the enquiry.
+
+</details>
 
 ## 📈 Results in 30 Days
 
