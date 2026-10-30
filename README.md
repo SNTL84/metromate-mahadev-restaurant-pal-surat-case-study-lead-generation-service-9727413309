@@ -1,4 +1,6 @@
 # 🕉️ Mahadev Restaurant — New Branch Launch (Pal, Surat)
+For lead generation services, see the contact information in this README.
+
 ### A MetroMate Performance Marketing Case Study
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen) ![Timeline](https://img.shields.io/badge/Delivery-30%20Days-blue) ![Location](https://img.shields.io/badge/Location-Pal%2C%20Surat-orange)
@@ -181,3 +183,7 @@ Full-Stack Builds · AI Workflows · Supply Chain Business Intelligence
 ### ⭐ Interested in a similar setup for your restaurant or local business?
 
 Reach out via [WhatsApp](https://wa.me/919727413309), [LinkedIn](https://linkedin.com/in/sntl2784), [GitHub](https://github.com/SNTL84), or [Instagram](https://www.instagram.com/desibiztrade) to discuss a full-scale branch launch, POS/CCTV setup, UPI payment terminal configuration, delivery platform onboarding, vendor alignment, or social media growth package.
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
